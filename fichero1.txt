@@ -1,2 +1,3 @@
-Esto es un nueva funcionalidad en una rama nueva
-Daniel
+Nueva funcionalidad en una rama nueva.
+Daniel.
+Modificado desde IntelliJ IDEA.
