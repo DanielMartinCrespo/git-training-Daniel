@@ -1,4 +1,2 @@
-Primera línea.
-Añado contenido a mi fichero.
-Seguimos avanzando con la práctica con git.
-Cuarta linea (editada desde IntelliJ).
+Esto es un nueva funcionalidad en una rama nueva
+Daniel
